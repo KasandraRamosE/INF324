@@ -1,0 +1,14 @@
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe.config
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csprojResolveAssemblyReference.cache
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Form1.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Form2.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Form3.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Form5.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Properties.Resources.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.GenerateResource.Cache
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.exe
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.pdb
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Form4.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio5\ejercicio5\obj\Debug\ejercicio5.Form6.resources
