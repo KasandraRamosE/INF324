@@ -1,0 +1,9 @@
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe.config
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\obj\Debug\ejercicio7.Form1.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\obj\Debug\ejercicio7.Form2.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\obj\Debug\ejercicio7.Properties.Resources.resources
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\obj\Debug\ejercicio7.csproj.GenerateResource.Cache
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\bin\Debug\ejercicio7.pdb
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\obj\Debug\ejercicio7.exe
+c:\users\kbre1\onedrive\documents\visual studio 2012\Projects\ejercicio7\ejercicio7\obj\Debug\ejercicio7.pdb
